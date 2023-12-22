@@ -17,7 +17,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 <!-- Add contributors below: -->
 
 1. **[Jeremiah Nsiah Akuoko](https://github.com/nakjemmy)**
-   - Email: nakjemmy6@gmail.com
+   - Email: nakjemmy6@gma.com
    - Contribution: Describe the contribution briefly.
 
 <!-- Add more contributors as needed -->
